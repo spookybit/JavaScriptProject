@@ -2,6 +2,8 @@
 
 ### Background
 
+![wireframe](./wireframe.png)
+
 You are a character equipped with a bow and inside of a shop where
 you can play a simple shooting game. You are stationed behind a barrier
 where you can move left and right. Targets from the gallery will pop
