@@ -2,6 +2,8 @@
 
 [zeldashooter demo](https://spookybit.github.io/zeldashooter/)
 
+![screenshot](assets/images/screen_shot.png)
+
 ### Instructions
 The goal of ZeldaShooter is to score as many points as possible by shooting the Rupees and Cuccos. Rupees are worth 10 points, and Cuccos are worth 100 points. Failing to shoot a target before it disappears after 2 seconds will result in misses. Miss 10 targets and the game is over.
 
