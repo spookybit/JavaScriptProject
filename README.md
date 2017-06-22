@@ -2,12 +2,14 @@
 
 [zeldashooter demo](https://spookybit.github.io/zeldashooter/)
 
-![screenshot](assets/images/screen_shot.png)
+![menu](assets/images/screenshot_menu.png)
 
 ### Instructions
 The goal of ZeldaShooter is to score as many points as possible by shooting the Rupees and Cuccos. Rupees are worth 10 points, and Cuccos are worth 100 points. Failing to shoot a target before it disappears after 2 seconds will result in misses. Miss 10 targets and the game is over.
 
 Press "SPACE" to shoot arrows. Use left and right arrow keys to move around.
+
+![game](assets/images/screenshot_game.png)
 
 ### Technical
 ZeldaShooter is build on JavaScript and uses HTML5 Canvas for rendering animations.
